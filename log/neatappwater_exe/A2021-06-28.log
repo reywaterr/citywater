@@ -1,0 +1,14 @@
+neatappwater.exe: 00001A94: 07:47:22 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Bold.ttf
+neatappwater.exe: 00000F2C: 07:47:22 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Regular.ttf
+neatappwater.exe: 00000D60: 08:00:12 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Semibold.ttf
+neatappwater.exe: 000025A8: 09:38:14 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Regular.ttf
+neatappwater.exe: 00000C30: 09:38:16 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Semibold.ttf
+neatappwater.exe: 00002B68: 11:52:37 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Bold.ttf
+neatappwater.exe: 00000F10: 11:52:37 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Regular.ttf
+neatappwater.exe: 00001B98: 12:46:00 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Bold.ttf
+neatappwater.exe: 00000980: 12:46:00 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Regular.ttf
+neatappwater.exe: 000012D8: 14:35:18 []:>--------------------------------------------------------------<
+neatappwater.exe: 000012D8: 14:35:18 [Tservice_neatappwater]:Server First Init.
+neatappwater.exe: 000012D8: 14:35:19 [Tservice_neatappwater]:Global Cache Folder Erased. <35> Files deleted.
+neatappwater.exe: 000012D8: 14:35:19 [Tservice_neatappwater]:Starting HTTP Server on Port: 8078...
+neatappwater.exe: 000012D8: 14:35:19 [Tservice_neatappwater]:HTTP Server Started on Port: 8078

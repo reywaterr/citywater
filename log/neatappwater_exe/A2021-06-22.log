@@ -1,0 +1,33 @@
+neatappwater.exe: 00000D04: 07:45:52 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Regular.ttf
+neatappwater.exe: 00002330: 07:45:54 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Semibold.ttf
+neatappwater.exe: 00001FF8: 08:58:03 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Regular.ttf
+neatappwater.exe: 00002208: 08:58:07 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Semibold.ttf
+neatappwater.exe: 000011A8: 09:50:57 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Regular.ttf
+neatappwater.exe: 00002798: 09:50:58 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Semibold.ttf
+neatappwater.exe: 000011C8: 11:11:29 []:>--------------------------------------------------------------<
+neatappwater.exe: 000011C8: 11:11:30 [Tservice_neatappwater]:Server First Init.
+neatappwater.exe: 000011C8: 11:11:31 [Tservice_neatappwater]:Global Cache Folder Erased. <29> Files deleted.
+neatappwater.exe: 000011C8: 11:11:31 [Tservice_neatappwater]:Starting HTTP Server on Port: 8078...
+neatappwater.exe: 000011C8: 11:11:32 [Tservice_neatappwater]:HTTP Server Started on Port: 8078
+neatappwater.exe: 00001E00: 12:54:31 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Regular.ttf
+neatappwater.exe: 0000199C: 12:54:34 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Semibold.ttf
+neatappwater.exe: 00001E6C: 13:44:47 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Regular.ttf
+neatappwater.exe: 00001064: 13:44:50 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Semibold.ttf
+neatappwater.exe: 000004E0: 15:43:13 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Regular.ttf
+neatappwater.exe: 0000269C: 15:43:15 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Semibold.ttf
+neatappwater.exe: 00001BDC: 16:31:16 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Bold.ttf
+neatappwater.exe: 00000C28: 16:31:16 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Regular.ttf
+neatappwater.exe: 00001210: 16:40:25 []:>--------------------------------------------------------------<
+neatappwater.exe: 00001210: 16:40:25 [Tservice_neatappwater]:Server First Init.
+neatappwater.exe: 00001210: 16:40:26 [Tservice_neatappwater]:Global Cache Folder Erased. <32> Files deleted.
+neatappwater.exe: 00001210: 16:40:26 [Tservice_neatappwater]:Starting HTTP Server on Port: 8078...
+neatappwater.exe: 00001210: 16:40:27 [Tservice_neatappwater]:HTTP Server Started on Port: 8078
+neatappwater.exe: 000001FC: 16:52:39 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Regular.ttf
+neatappwater.exe: 000017AC: 16:52:47 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Semibold.ttf
+neatappwater.exe: 00002170: 17:05:17 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Bold.ttf
+neatappwater.exe: 000019D4: 17:05:17 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Regular.ttf
+neatappwater.exe: 00001930: 17:18:54 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Semibold.ttf
+neatappwater.exe: 00002238: 17:55:28 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Bold.ttf
+neatappwater.exe: 000014BC: 17:55:28 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Regular.ttf
+neatappwater.exe: 00001B58: 18:02:44 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Bold.ttf
+neatappwater.exe: 00001F20: 18:02:44 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Regular.ttf

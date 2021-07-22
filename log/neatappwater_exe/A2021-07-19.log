@@ -1,0 +1,23 @@
+neatappwater.exe: 00001348: 07:45:04 []:>--------------------------------------------------------------<
+neatappwater.exe: 00001348: 07:45:04 [Tservice_neatappwater]:Server First Init.
+neatappwater.exe: 00001348: 07:45:04 [Tservice_neatappwater]:Global Cache Folder Erased. <30> Files deleted.
+neatappwater.exe: 00001348: 07:45:04 [Tservice_neatappwater]:Starting HTTP Server on Port: 8078...
+neatappwater.exe: 00001348: 07:45:04 [Tservice_neatappwater]:HTTP Server Started on Port: 8078
+neatappwater.exe: 000023B0: 07:46:55 [HandleFileRequest[127.0.0.1]]:File not found: E:\WaterApp\cache\neatappwater_exe\1UxKribufp1089F6A03\favicon.ico
+neatappwater.exe: 0000214C: 07:46:55 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 1UxKribufp1089F6A03 ) : Addr: $007FF2B2
+neatappwater.exe: 0000214C: 07:46:56 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 1UxKribufp1089F6A03 ) : Addr: $007FF2B2
+neatappwater.exe: 0000214C: 07:46:56 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 1UxKribufp1089F6A03 ) : Addr: $007FF2B2
+neatappwater.exe: 000020F4: 07:46:56 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 1UxKribufp1089F6A03 ) : Addr: $007FF2B2
+neatappwater.exe: 00000FCC: 08:18:36 [Terminated]:Exit Code: 0
+neatappwater.exe: 0000137C: 08:18:38 [IndyListen]:EIdSocketError : Socket Error # 10093
+ : Addr: $0070C4F0
+neatappwater.exe: 000011AC: 08:19:50 []:>--------------------------------------------------------------<
+neatappwater.exe: 000011AC: 08:19:50 [Tservice_neatappwater]:Server First Init.
+neatappwater.exe: 000011AC: 08:19:50 [Tservice_neatappwater]:Global Cache Folder Erased. <25> Files deleted.
+neatappwater.exe: 000011AC: 08:19:50 [Tservice_neatappwater]:Starting HTTP Server on Port: 8078...
+neatappwater.exe: 000011AC: 08:19:50 [Tservice_neatappwater]:HTTP Server Started on Port: 8078
+neatappwater.exe: 00001D0C: 08:50:55 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_emerald-x30\resources\fonts\OpenSans-Regular.ttf
+neatappwater.exe: 00002048: 08:50:57 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_emerald-x30\resources\fonts\OpenSans-Semibold.ttf
+neatappwater.exe: 00002654: 11:27:08 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_emerald-x30\resources\fonts\OpenSans-Bold.ttf
+neatappwater.exe: 00001434: 15:57:33 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_emerald-x30\resources\fonts\OpenSans-Bold.ttf
+neatappwater.exe: 00000FFC: 15:57:33 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_emerald-x30\resources\fonts\OpenSans-Regular.ttf

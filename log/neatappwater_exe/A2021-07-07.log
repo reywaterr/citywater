@@ -1,0 +1,16 @@
+neatappwater.exe: 00000F04: 08:28:39 [127.0.0.1]:EAccessViolation : Access violation at address 00000000 in module 'neatappwater.exe'. Read of address 00000000 : Addr: $00000000
+neatappwater.exe: 00002C14: 08:42:14 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Bold.ttf
+neatappwater.exe: 00002514: 09:23:05 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Regular.ttf
+neatappwater.exe: 000020C0: 09:23:07 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Semibold.ttf
+neatappwater.exe: 000020BC: 11:57:41 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Bold.ttf
+neatappwater.exe: 00000FB8: 11:57:41 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Regular.ttf
+neatappwater.exe: 000010A0: 12:02:25 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Semibold.ttf
+neatappwater.exe: 00001AC0: 13:11:40 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Bold.ttf
+neatappwater.exe: 00000A7C: 13:11:40 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Regular.ttf
+neatappwater.exe: 000011E8: 13:56:37 []:>--------------------------------------------------------------<
+neatappwater.exe: 000011E8: 13:56:38 [Tservice_neatappwater]:Server First Init.
+neatappwater.exe: 000011E8: 13:56:39 [Tservice_neatappwater]:Global Cache Folder Erased. <30> Files deleted.
+neatappwater.exe: 000011E8: 13:56:39 [Tservice_neatappwater]:Starting HTTP Server on Port: 8078...
+neatappwater.exe: 000011E8: 13:56:39 [Tservice_neatappwater]:HTTP Server Started on Port: 8078
+neatappwater.exe: 000025D4: 16:18:23 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Regular.ttf
+neatappwater.exe: 000024DC: 16:18:24 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Semibold.ttf

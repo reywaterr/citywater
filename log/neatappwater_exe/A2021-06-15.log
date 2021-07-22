@@ -1,0 +1,7 @@
+neatappwater.exe: 000012B0: 07:43:57 []:>--------------------------------------------------------------<
+neatappwater.exe: 000012B0: 07:43:58 [Tservice_neatappwater]:Server First Init.
+neatappwater.exe: 000012B0: 07:43:59 [Tservice_neatappwater]:Global Cache Folder Erased. <35> Files deleted.
+neatappwater.exe: 000012B0: 07:44:00 [Tservice_neatappwater]:Starting HTTP Server on Port: 8078...
+neatappwater.exe: 000012B0: 07:44:00 [Tservice_neatappwater]:HTTP Server Started on Port: 8078
+neatappwater.exe: 00000E04: 09:02:17 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Regular.ttf
+neatappwater.exe: 0000253C: 09:02:24 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Semibold.ttf

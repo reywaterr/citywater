@@ -1,0 +1,5 @@
+neatappwater.exe: 00000C30: 22:35:52 []:>--------------------------------------------------------------<
+neatappwater.exe: 00000C30: 22:35:53 [Tservice_neatappwater]:Server First Init.
+neatappwater.exe: 00000C30: 22:35:53 [Tservice_neatappwater]:Global Cache Folder Erased. <25> Files deleted.
+neatappwater.exe: 00000C30: 22:35:53 [Tservice_neatappwater]:Starting HTTP Server on Port: 8078...
+neatappwater.exe: 00000C30: 22:35:53 [Tservice_neatappwater]:HTTP Server Started on Port: 8078

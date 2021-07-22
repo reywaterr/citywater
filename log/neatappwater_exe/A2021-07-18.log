@@ -1,0 +1,25 @@
+neatappwater.exe: 00001054: 17:41:08 [Terminated]:Exit Code: 0
+neatappwater.exe: 00001274: 17:42:23 []:>--------------------------------------------------------------<
+neatappwater.exe: 00001274: 17:42:23 [Tservice_neatappwater]:Server First Init.
+neatappwater.exe: 00001274: 17:42:26 [Tservice_neatappwater]:Global Cache Folder Erased. <35> Files deleted.
+neatappwater.exe: 00001274: 17:42:26 [Tservice_neatappwater]:Starting HTTP Server on Port: 8078...
+neatappwater.exe: 00001274: 17:42:26 [Tservice_neatappwater]:HTTP Server Started on Port: 8078
+neatappwater.exe: 00000CB0: 19:27:06 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_emerald-x30\resources\fonts\OpenSans-Regular.ttf
+neatappwater.exe: 00000510: 19:27:07 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_emerald-x30\resources\fonts\OpenSans-Semibold.ttf
+neatappwater.exe: 00001274: 19:46:12 [Tservice_neatappwater]:Shutting Down Server.
+neatappwater.exe: 00001274: 19:46:12 [Tservice_neatappwater]:Stopping HTTP Server.
+neatappwater.exe: 00001274: 19:46:13 [Tservice_neatappwater]:HTTP Server Stopped.
+neatappwater.exe: 00001274: 19:46:13 [TUniGUISessionManager]:Terminating Session manager.
+neatappwater.exe: 00001274: 19:46:13 [TUniGUISessionManager]:Stopping Cache Eraser...
+neatappwater.exe: 00001274: 19:46:13 [TUniGUISessionManager]:Cache Eraser Stopped.
+neatappwater.exe: 00001274: 19:46:13 [TUniGUISessionManager]:Destroying Worker Threads.
+neatappwater.exe: 00001274: 19:46:13 [TUniGUISessionManager]:Session manager terminated.
+neatappwater.exe: 00001274: 19:46:13 [Tservice_neatappwater]:Server Shutdown Completed.
+neatappwater.exe: 00001274: 19:46:13 []:<-------------------------------------------------------------->
+neatappwater.exe: 00000C04: 19:46:13 [Terminated]:Exit Code: 0
+neatappwater.exe: 000016C4: 19:46:24 []:>--------------------------------------------------------------<
+neatappwater.exe: 000016C4: 19:46:24 [Tservice_neatappwater]:Server First Init.
+neatappwater.exe: 000016C4: 19:46:24 [Tservice_neatappwater]:Starting HTTP Server on Port: 8078...
+neatappwater.exe: 000016C4: 19:46:24 [Tservice_neatappwater]:HTTP Server Started on Port: 8078
+neatappwater.exe: 000017D4: 19:50:41 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_emerald-x30\resources\fonts\OpenSans-Regular.ttf
+neatappwater.exe: 00001530: 19:50:42 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_emerald-x30\resources\fonts\OpenSans-Semibold.ttf

@@ -1,0 +1,11 @@
+neatappwater.exe: 00002ACC: 07:58:50 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Bold.ttf
+neatappwater.exe: 00002B54: 07:58:50 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Regular.ttf
+neatappwater.exe: 000022C4: 08:06:02 [127.0.0.1]:Exception : TUniCustomDBGrid.MoveToRow(): Unexpected Row number: 0, 1 : Addr: $00AAB28E
+neatappwater.exe: 000004D0: 08:15:03 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Semibold.ttf
+neatappwater.exe: 00001318: 18:49:05 []:>--------------------------------------------------------------<
+neatappwater.exe: 00001318: 18:49:05 [Tservice_neatappwater]:Server First Init.
+neatappwater.exe: 00001318: 18:49:05 [Tservice_neatappwater]:Global Cache Folder Erased. <25> Files deleted.
+neatappwater.exe: 00001318: 18:49:05 [Tservice_neatappwater]:Starting HTTP Server on Port: 8078...
+neatappwater.exe: 00001318: 18:49:05 [Tservice_neatappwater]:HTTP Server Started on Port: 8078
+neatappwater.exe: 00001EC8: 18:59:25 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Bold.ttf
+neatappwater.exe: 0000094C: 18:59:25 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Regular.ttf

@@ -1,0 +1,37 @@
+neatappwater.exe: 00001344: 08:11:59 []:>--------------------------------------------------------------<
+neatappwater.exe: 00001344: 08:11:59 [Tservice_neatappwater]:Server First Init.
+neatappwater.exe: 00001344: 08:11:59 [Tservice_neatappwater]:Global Cache Folder Erased. <25> Files deleted.
+neatappwater.exe: 00001344: 08:11:59 [Tservice_neatappwater]:Starting HTTP Server on Port: 8078...
+neatappwater.exe: 00001344: 08:11:59 [Tservice_neatappwater]:HTTP Server Started on Port: 8078
+neatappwater.exe: 00001BC4: 09:33:59 [127.0.0.1]:EUniError : Unable to complete network request to host "localhost".Failed to locate host machine.The specified name was not found in the hosts file or Domain Name Services. : Addr: $00A1F2F0
+neatappwater.exe: 00001BC4: 09:34:01 [HandleFileRequest[127.0.0.1]]:File not found: E:\WaterApp\favicon.ico
+neatappwater.exe: 00000704: 09:34:16 [127.0.0.1]:EUniError : Unable to complete network request to host "localhost".Failed to locate host machine.The specified name was not found in the hosts file or Domain Name Services. : Addr: $00A1F2F0
+neatappwater.exe: 00000704: 09:34:17 [HandleFileRequest[127.0.0.1]]:File not found: E:\WaterApp\favicon.ico
+neatappwater.exe: 00001098: 09:34:44 [127.0.0.1]:EUniError : Unable to complete network request to host "localhost".Failed to locate host machine.The specified name was not found in the hosts file or Domain Name Services. : Addr: $00A1F2F0
+neatappwater.exe: 00001098: 09:34:45 [HandleFileRequest[127.0.0.1]]:File not found: E:\WaterApp\favicon.ico
+neatappwater.exe: 00002160: 09:35:45 [127.0.0.1]:EUniError : Unable to complete network request to host "localhost".Failed to locate host machine.The specified name was not found in the hosts file or Domain Name Services. : Addr: $00A1F2F0
+neatappwater.exe: 00002160: 09:35:46 [HandleFileRequest[127.0.0.1]]:File not found: E:\WaterApp\favicon.ico
+neatappwater.exe: 00001B84: 09:36:11 [127.0.0.1]:EUniError : Unable to complete network request to host "localhost".Failed to locate host machine.The specified name was not found in the hosts file or Domain Name Services. : Addr: $00A1F2F0
+neatappwater.exe: 00001B84: 09:36:17 [127.0.0.1]:EUniError : Unable to complete network request to host "localhost".Failed to locate host machine.The specified name was not found in the hosts file or Domain Name Services. : Addr: $00A1F2F0
+neatappwater.exe: 000013F8: 09:36:17 [127.0.0.1]:EUniError : Unable to complete network request to host "localhost".Failed to locate host machine.The specified name was not found in the hosts file or Domain Name Services. : Addr: $00A1F2F0
+neatappwater.exe: 000013F8: 09:36:18 [127.0.0.1]:EUniError : Unable to complete network request to host "localhost".Failed to locate host machine.The specified name was not found in the hosts file or Domain Name Services. : Addr: $00A1F2F0
+neatappwater.exe: 000011E0: 09:36:55 [127.0.0.1]:EUniError : Unable to complete network request to host "localhost".Failed to locate host machine.The specified name was not found in the hosts file or Domain Name Services. : Addr: $00A1F2F0
+neatappwater.exe: 000011E0: 09:36:55 [HandleFileRequest[127.0.0.1]]:File not found: E:\WaterApp\favicon.ico
+neatappwater.exe: 0000061C: 09:37:10 [127.0.0.1]:EUniError : Unable to complete network request to host "localhost".Failed to locate host machine.The specified name was not found in the hosts file or Domain Name Services. : Addr: $00A1F2F0
+neatappwater.exe: 0000061C: 09:37:11 [127.0.0.1]:EUniError : Unable to complete network request to host "localhost".Failed to locate host machine.The specified name was not found in the hosts file or Domain Name Services. : Addr: $00A1F2F0
+neatappwater.exe: 0000061C: 09:37:12 [127.0.0.1]:EUniError : Unable to complete network request to host "localhost".Failed to locate host machine.The specified name was not found in the hosts file or Domain Name Services. : Addr: $00A1F2F0
+neatappwater.exe: 0000061C: 09:37:18 [127.0.0.1]:EUniError : Unable to complete network request to host "localhost".Failed to locate host machine.The specified name was not found in the hosts file or Domain Name Services. : Addr: $00A1F2F0
+neatappwater.exe: 0000061C: 09:37:19 [127.0.0.1]:EUniError : Unable to complete network request to host "localhost".Failed to locate host machine.The specified name was not found in the hosts file or Domain Name Services. : Addr: $00A1F2F0
+neatappwater.exe: 0000061C: 09:37:23 [127.0.0.1]:EUniError : Unable to complete network request to host "localhost".Failed to locate host machine.The specified name was not found in the hosts file or Domain Name Services. : Addr: $00A1F2F0
+neatappwater.exe: 0000061C: 09:37:23 [127.0.0.1]:EUniError : Unable to complete network request to host "localhost".Failed to locate host machine.The specified name was not found in the hosts file or Domain Name Services. : Addr: $00A1F2F0
+neatappwater.exe: 0000061C: 09:37:24 [127.0.0.1]:EUniError : Unable to complete network request to host "localhost".Failed to locate host machine.The specified name was not found in the hosts file or Domain Name Services. : Addr: $00A1F2F0
+neatappwater.exe: 0000061C: 09:37:24 [127.0.0.1]:EUniError : Unable to complete network request to host "localhost".Failed to locate host machine.The specified name was not found in the hosts file or Domain Name Services. : Addr: $00A1F2F0
+neatappwater.exe: 0000061C: 09:37:29 [127.0.0.1]:EUniError : Unable to complete network request to host "localhost".Failed to locate host machine.The specified name was not found in the hosts file or Domain Name Services. : Addr: $00A1F2F0
+neatappwater.exe: 0000061C: 09:37:33 [127.0.0.1]:EUniError : Unable to complete network request to host "localhost".Failed to locate host machine.The specified name was not found in the hosts file or Domain Name Services. : Addr: $00A1F2F0
+neatappwater.exe: 0000061C: 09:37:34 [127.0.0.1]:EUniError : Unable to complete network request to host "localhost".Failed to locate host machine.The specified name was not found in the hosts file or Domain Name Services. : Addr: $00A1F2F0
+neatappwater.exe: 0000061C: 09:37:35 [127.0.0.1]:EUniError : Unable to complete network request to host "localhost".Failed to locate host machine.The specified name was not found in the hosts file or Domain Name Services. : Addr: $00A1F2F0
+neatappwater.exe: 0000061C: 09:37:35 [127.0.0.1]:EUniError : Unable to complete network request to host "localhost".Failed to locate host machine.The specified name was not found in the hosts file or Domain Name Services. : Addr: $00A1F2F0
+neatappwater.exe: 0000061C: 09:37:44 [127.0.0.1]:EUniError : Unable to complete network request to host "localhost".Failed to locate host machine.The specified name was not found in the hosts file or Domain Name Services. : Addr: $00A1F2F0
+neatappwater.exe: 00002038: 09:41:49 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Regular.ttf
+neatappwater.exe: 0000236C: 09:41:52 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Semibold.ttf
+neatappwater.exe: 000012C4: 10:41:34 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\unipackages-7.0.0\themes\ext-theme-uni_office-blue-x30\resources\fonts\OpenSans-Bold.ttf
